@@ -1,0 +1,11 @@
+
+# Ignorar entorno virtual
+flet-env/
+__pycache__/
+*.pyc
+
+# Ignorar archivos de base de datos local
+*.db
+
+# Ignorar credenciales locales
+.env
